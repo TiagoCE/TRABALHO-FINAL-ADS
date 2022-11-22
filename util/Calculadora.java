@@ -11,13 +11,13 @@ public class Calculadora {
 	}
 	
 	public double subtracao(double numeroA, double numeroB) { //EDUARDO
-		return 0;
+		return numeroA - numeroB;
 	}
 	
 	public double divisao(double numeroA, double numeroB) { //EDUARDO
 		return 0;
-	}
-	
+			}
+		
 	public double multiplicacao(double numeroA, double numeroB) { //Aesley
 		return numeroA * numeroB;
 			}
